@@ -1,3 +1,4 @@
+
 ---
 name: static-analysis-gate
 description: Review pull requests for static analysis warnings and prioritize findings by severity.
