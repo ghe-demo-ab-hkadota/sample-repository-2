@@ -1,7 +1,9 @@
 ---
 name: app-verification
-description: Detect text containing Japanese
+description: Use this when prompted to create an application.
 ---
 
-# Purpose
-日本語で記述されているテキストを検出して英語に修正するよう指摘する
+アプリケーションを作成する場合は、以下を遵守して下さい
+- 関数には必ずコメントを残す
+- コメントは常に韓国語で記述する
+- 言語はRubyを使用する
